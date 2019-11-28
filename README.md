@@ -7,4 +7,7 @@ But open animate Requies a high-end computer
 ![Twitter](https://twitter.com/mrscottypieey)<br>
 ![](OpenedAnimate.svg)
 
+[Public Discord Server]()
+
+
 OpenedAnimate.svg
