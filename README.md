@@ -4,5 +4,7 @@ and you can create any thing you want in the world and grounded videos eazy to u
 But open animate Requies a high-end computer
 
 
-
+![Twitter](https://twitter.com/mrscottypieey)<br>
 ![](OpenedAnimate.svg)
+
+OpenedAnimate.svg
