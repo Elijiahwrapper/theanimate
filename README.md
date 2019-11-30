@@ -5,6 +5,7 @@ But open animate Requies a high-end computer but this is a free and open source 
 
 
 ![Twitter](https://twitter.com/mrscottypieey)<br>
+
 ![](OpenedAnimate.svg)
 
 [Public Discord Server]()
